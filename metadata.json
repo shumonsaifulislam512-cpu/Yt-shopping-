@@ -1,0 +1,6 @@
+{
+  "name": "Lumina",
+  "description": "E-commerce platform with personalized AI recommendations and seamless checkout payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
